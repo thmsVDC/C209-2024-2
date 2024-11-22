@@ -57,14 +57,6 @@ Este plano descreve as etapas e técnicas utilizadas para transformar o vídeo i
 
 ---
 
-## 5. Extração e Reintegração de Áudio (Opcional)
-- **Objetivo**: Separar o áudio do vídeo para edições adicionais ou substituição por outro áudio.
-- **Técnicas Utilizadas**:
-  - Extrair o áudio do vídeo resultante e salvá-lo como `audio_diminuindo_30_segundos.mp3`.
-  - Substituir ou sincronizar um novo áudio ao vídeo final, se necessário.
-
----
-
 ## 6. Validação do Vídeo Final
 - **Objetivo**: Garantir que o vídeo final atenda aos requisitos estabelecidos.
 - **Técnicas**:
