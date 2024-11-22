@@ -5,6 +5,8 @@
 - **Vídeo da Questão 2**: [Assista aqui](https://youtu.be/1AQk68BTQMA)
 - **Vídeo da Questão 3 (Final)**: [Assista aqui](https://youtu.be/mD3LlDzvTnw)
 
+---
+
 # Plano Detalhado para Transformação do Vídeo
 
 Este plano descreve as etapas e técnicas utilizadas para transformar o vídeo inicial no vídeo final, utilizando os códigos fornecidos e conceitos discutidos em sala de aula.
